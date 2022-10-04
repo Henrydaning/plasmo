@@ -1,22 +1,23 @@
 {
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "files.exclude": {
-    "**/.git": true,
-    "**/.svn": true,
-    "**/.hg": true,
-    "**/CVS": true,
-    "**/.DS_Store": true,
-    "**/Thumbs.db": true,
-    "**/node_modules": true,
-    "**/.turbo": true,
-    "**/.next": true,
-    "**/*.log": true
-  },
-  "[svg]": {
-    "editor.defaultFormatter": "jock.svg"
-  },
-  "git.detectSubmodulesLimit": 99,
-  "[svelte]": {
-    "editor.defaultFormatter": "svelte.svelte-vscode"
-  }
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/node_modules": true,
+        "**/.turbo": true,
+        "**/.next": true,
+        "**/*.log": true
+    },
+    "[svg]": {
+        "editor.defaultFormatter": "jock.svg"
+    },
+    "git.detectSubmodulesLimit": 99,
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+    },
+    "workspace.isHidden": true
 }
